@@ -1,18 +1,3 @@
-local StarterGui = game:GetService("StarterGui")
-
--- Send first notification
-StarterGui:SetCore("SendNotification", {
-    Title = "User";
-    Text = "Script made by Raymond";
-    Duration = 5;
-})
-
--- Send second notification
-StarterGui:SetCore("SendNotification", {
-    Title = "Warning";
-    Text = "If you copy the script, consequences may follow.";
-    Duration = 5;
-})
 --//------------------------------------------------------------------------------------------\\--
 TweenService = game:GetService("TweenService")
 OWNER = game:GetService("Players").LocalPlayer
