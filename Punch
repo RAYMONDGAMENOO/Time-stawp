@@ -234,7 +234,7 @@ HellTool.Activated:Connect(function()
 
             Play(6964764259)
             chat("When the time is stopped, There is only Dio!")
-            wait (4)
+            wait(4)
             Play(6675055864)
             chat("4 seconds left...")
             wait(1.5)
